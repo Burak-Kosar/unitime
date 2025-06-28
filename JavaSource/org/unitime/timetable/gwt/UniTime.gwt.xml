@@ -32,7 +32,7 @@
 	<extend-property name="locale" values="en_UK"/>
 	<extend-property name="locale" values="cs"/>
 	<extend-property name="locale" values="pl"/>
-	<extend-property name="locale" values="ar"/>
+	<extend-property name="locale" values="tr"/>
 	<set-property-fallback name="locale" value="en"/>
 	
 	<!-- Logging -->
